@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * AMC CODE
+ * is written by amy
  * Return: 0
  */
 int main(void)
