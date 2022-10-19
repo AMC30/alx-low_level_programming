@@ -3,11 +3,11 @@
  * main -print putchar
  * AMC CODE
  * Return: 0
-*/
+ */
 int main(void)
 {
 	_putchar('_');
-	_ptchar('p');
+	_putchar('p');
 	_putchar('u');
 	_putchar('t');
 	_putchar('c');
